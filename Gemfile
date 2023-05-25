@@ -9,6 +9,21 @@ gem "rails", "~> 7.0.4", ">= 7.0.4.3"
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
+#boostrap
+gem "bootstrap", "~> 5.2"
+
+#autoprefixer
+gem "autoprefixer-rails"
+
+#font-awesome
+gem "font-awesome-sass", "~> 6.1"
+
+#simple_form
+gem "simple_form"
+
+#sassc-rails
+gem "sassc-rails" # Uncomment this line
+
 # Use postgresql as the database for Active Record
 gem "pg", "~> 1.1"
 
